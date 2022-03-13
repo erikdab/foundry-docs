@@ -89,6 +89,11 @@ Recommended modules:
 Premium Content:
 - Prepared! (some premade adventures)
 
+Cool modules to explore:
+- polyglot
+- Turn Marker
+- NotYourTurn
+
 Potential modules:
 - https://foundryvtt.com/packages/My-Shared-Compendia
 
