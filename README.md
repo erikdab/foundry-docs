@@ -85,17 +85,40 @@ Recommended modules:
 - PopOut!
 - socketlib (needed by PopOut!)
 - Tidy5e Sheet
+- Koboldworks – Ready Up!
+- pings
 
 Premium Content:
 - Prepared! (some premade adventures)
 
 Cool modules to explore:
-- polyglot
-- Turn Marker
+- party-inventory: easy way to track party inventory
+- polyglot: fun with languages
+- Turn Marker: shows on map visibly whose turn it is
 - NotYourTurn
+- turnAlert? example alert you 10 turns once rage expires
+- target-lock?
+- siftoolkit
+- damage-log: shows all latest damage and DM can revert it
+- danger-zone
+- item-piles - chests / etc.
+- lets-trade-5e
+- give-item: give item to another player :)
 
 Potential modules:
 - https://foundryvtt.com/packages/My-Shared-Compendia
+- toggle-combat-warning
+- dae
+- party-overview
+- share-media
+- pdf-sheet
+- lmrtfy
+- target-recall
+- Next-Up
+- mobile-improvements
+- itemcollection
+- VoiceActor
+- show-all-players
 
 ## World Configuration
 
