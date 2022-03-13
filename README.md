@@ -22,6 +22,10 @@ Dice:
 - Advanced Dices: https://foundryvtt.com/article/dice-advanced/
 - Dice Modifiers: https://foundryvtt.com/article/dice-modifiers/
 
+### Troubleshooting
+
+- Once Chrome didn't work and Edge worked. When you login see if you get any red warning boxes about OpenGL or browser support etc.
+
 ## Gamemaster Guide
 
 Tutorial: https://foundryvtt.com/article/tutorial/
