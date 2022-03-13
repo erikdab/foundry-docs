@@ -93,15 +93,16 @@ Recommended modules:
 - PopOut!
 - socketlib (needed by PopOut!)
 - Tidy5e Sheet
-- Koboldworks – Ready Up!
 - pings
+- give-item: give item to another player :)
+- polyglot: fun with languages
+- party-inventory: easy way to track party inventory
+- hide gm rolls: don't show that a GM rolled anything - you can always choose to reveal
 
 Premium Content:
 - Prepared! (some premade adventures)
 
 Cool modules to explore:
-- party-inventory: easy way to track party inventory
-- polyglot: fun with languages
 - Turn Marker: shows on map visibly whose turn it is
 - NotYourTurn
 - turnAlert? example alert you 10 turns once rage expires
@@ -111,7 +112,13 @@ Cool modules to explore:
 - danger-zone
 - item-piles - chests / etc.
 - lets-trade-5e
-- give-item: give item to another player :)
+- weather-control
+- Koboldworks – Ready Up!
+- Compendium Browser
+- Compenidum Folders
+- Forien's QUest Log
+- GM Notes
+- GM Screen
 
 Potential modules:
 - https://foundryvtt.com/packages/My-Shared-Compendia
