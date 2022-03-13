@@ -22,6 +22,14 @@ Dice:
 - Advanced Dices: https://foundryvtt.com/article/dice-advanced/
 - Dice Modifiers: https://foundryvtt.com/article/dice-modifiers/
 
+### Posting Images
+
+Enter this into chat to post an image to chat.
+
+```html
+<img src="ENTER IMAGE LINK HERE" />
+```
+
 ### Troubleshooting
 
 - Once Chrome didn't work and Edge worked. When you login see if you get any red warning boxes about OpenGL or browser support etc.
