@@ -119,6 +119,14 @@ Potential modules:
 - itemcollection
 - VoiceActor
 - show-all-players
+- conditional-visibility
+- fxmaster
+- dungeon-draw
+- sense-walls
+- PerfectVision (darkvision?)
+
+To consider modifying:
+- pdftofoundry
 
 ## World Configuration
 
