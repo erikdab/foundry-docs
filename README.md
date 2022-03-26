@@ -116,7 +116,7 @@ Cool modules to explore:
 - Koboldworks – Ready Up!
 - Compendium Browser
 - Compenidum Folders
-- Forien's QUest Log
+- Forien's Quest Log: https://foundryvtt.com/packages/forien-quest-log/
 - GM Notes
 - GM Screen
 
@@ -168,6 +168,7 @@ Potential modules:
 - https://github.com/SvenWerlen/moulinette-sounds
 - https://github.com/superseva/sound-link
 - https://github.com/BlitzKraig/fvtt-SoundBoard
+- https://github.com/jopeek/fvtt-loot-sheet-npc-5e
 
 Configuration Questions:
 - Freedom of movement (how to enable/disable)?
