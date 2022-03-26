@@ -139,6 +139,40 @@ Potential modules:
 - dungeon-draw
 - sense-walls
 - PerfectVision (darkvision?)
+- https://foundryvtt.com/packages/token-attacher/
+- mount-up
+- quest log
+- find-the-culprit
+- class exposure
+- class leveling editor
+- compendium browser
+- equipment paper doll (for non dnd5e)
+- gm notes
+- gm screen
+- hide gm rolls
+- hook macros?
+- Illandril's Tidy Module Settings / https://foundryvtt.com/packages/tidy-ui_game-settings/
+- Library: Scene Packer?
+- Lock View?
+- Monk's Little Details?
+- Monk's TokenBar?
+  - Monk's TokenBar should be able to replace NotYourTurn and work better for limiting or allowing movement out of turn
+  - Only need to consider how to handle companions
+- LootsheetNPC5e
+- Multilevel Tokens?
+- https://github.com/ironmonk88/monks-wall-enhancement
+- https://github.com/ironmonk88/monks-sound-enhancements
+- https://github.com/ironmonk88/monks-enhanced-journal
+- https://github.com/illandril/FoundryVTT-chat-enhancements
+- https://github.com/illandril/FoundryVTT-tidy-module-settings
+- https://github.com/SvenWerlen/moulinette-sounds
+- https://github.com/superseva/sound-link
+- https://github.com/BlitzKraig/fvtt-SoundBoard
+
+Configuration Questions:
+- Freedom of movement (how to enable/disable)?
+- How do they setup the "get ready you're up next?" notification?
+- Making it go to 0 should make them die
 
 To consider modifying:
 - pdftofoundry
