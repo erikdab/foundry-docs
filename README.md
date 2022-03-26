@@ -169,6 +169,7 @@ Potential modules:
 - https://github.com/superseva/sound-link
 - https://github.com/BlitzKraig/fvtt-SoundBoard
 - https://github.com/jopeek/fvtt-loot-sheet-npc-5e
+- https://github.com/dev7355608/perfect-vision
 
 Configuration Questions:
 - Freedom of movement (how to enable/disable)?
